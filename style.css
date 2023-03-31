@@ -12,7 +12,7 @@ html, body {
   margin: 0 3px;
   background-color: darkorange;
   border: 2px solid black;
-  border-radius: 9px;
+  border-radius: 200px;
   cursor: pointer;
 }
 
